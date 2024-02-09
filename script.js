@@ -38,6 +38,12 @@ const noButtonTexts = [
   "you're my everything",
   "I am obsessed with you",
   "I am sooooo in love with you",
+  "I want you",
+  "Life without you is not worth it",
+  "the world is beautiful because you're in it",
+  "you are my dream",
+  "you are the only one i want in my life",
+  "you're my best friend",
   "come for the movie baby",
   "Still not convinced?"
   // Add more texts here...
