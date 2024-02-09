@@ -44,7 +44,7 @@ const noButtonTexts = [
   "you are my dream",
   "you are the only one i want in my life",
   "you're my best friend",
-  "come for the movie baby",
+  "come for the movie baby !",
   "Still not convinced?"
   // Add more texts here...
 ];
