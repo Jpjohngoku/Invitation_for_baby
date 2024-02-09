@@ -1,0 +1,43 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 10px 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  
+  color: #fff;
+  text-decoration: none;
+  
+}
+
+#yesBtn {
+  background-color: #3dd486;
+  box-shadow: 
+    2px 2px 10px #8dffa4 inset,
+    -2px -2px 10px #005608 inset;
+}
+
+#noBtn {
+  box-shadow: 
+  2px 2px 10px #ff98bd inset,
+  -2px -2px 10px #4e0022 inset;
+  background-color: #d43d5e;
+}
